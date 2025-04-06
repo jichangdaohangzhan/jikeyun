@@ -1,8 +1,6 @@
 
-<h1>极客云机场官方地址入口-优惠码-套餐指南</h1>
-极客云是速鹰 666旗下的SSR/V2Ray平价机场，
-是一家专业 SSR/V2Ray 机场，多年老站，节点使用 CN2/BGP 隧道中转和 IPLC 国际专线，套餐灵活，性价比高，适合各类人群使用。无论您是重度视频用户，或轻量网页需求，都可以在极客云官网找到适合您的流量套餐。
-极客云以套餐灵活、性价比高为特点，适合各类人群使用。尽管极客云曾作为免费公益机场运营，但因成本压力已转为完全收费的优质机场。JMS服务速度良好，能流畅播放YouTube 4K视频、解锁ChatGPT、Netflix、HBO、Disney+等流媒体解锁<span class="md-meta-i-c md-link md-expand"><span class="md-plain">。</span></span>
+<h1>极客云机场官网地址入口-优惠码-套餐指南</h1>
+极客云（JikeCloud），又称极客零（Jike0），是一家专业的SSR/V2Ray机场，成立于2017年，拥有近70个付费节点。该机场使用CN2/BGP隧道中转和IPLC国际专线，提供灵活的套餐和高性价比的服务，适合各类用户需求。
 
 <h2>极客云机场官网地址</h2>
 <p style="text-align: center;"><a class="links8" style="box-sizing: border-box; color: #fff; outline: none; display: inline-block; margin-top: 1.5em; margin-margin-top: 1em; margin-bottom: 1em; padding: 0.5em 2.5em; background: #FF4040; text-transform: uppercase; letter-spacing: 1px; font-weight: 600; border-radius: 10px 50px; font-family: Raleway, Arial, sans-serif; font-size: 20px; text-align: center;" title="转至极客云机场的官网注册链接" href="https://jikefind.net/auth/register?code=xNTu" target="_blank" rel="nofollow noopener sponsored">进入极客云机场</a></p>
@@ -15,16 +13,38 @@
 <h2>极客云机场优惠码</h2>
 <ul>
  	<li>包年8折优惠代码：<strong>B80</strong></li>
+## 极客云套餐
 
-</ul>
-<h2>极客云机场月付套餐</h2>
-<ul>
- 	<li>入门版每月¥19.99，100GB使用流量，2个设备同时使用，最高60M速率，工单客服支持，支持SSR、V2ray节点，国内中转节点，解锁流媒体，可用入门版节点，限用入门版节点</li>
- 	<li>基础版每月¥29.99，200GB使用流量，3个设备同时使用，最高150M速率，工单客服支持，支持SSR、V2ray节点，国内中转节点，解锁流媒体，可用入门版节点、基础版节点</li>
- 	<li>标准版每月¥39.99，350GB使用流量，5个设备同时使用，最高300M速率，工单客服支持，支持SSR、V2ray节点，国内中转节点，解锁流媒体，可用入门版节点、可用基础版节点、标准版节点</li>
- 	<li>旗舰版每月¥59.99，600GB使用流量，8个设备同时使用，不限制速率，工单客服，支持支持SSR、V2ray节点，国内中转节点，解锁流媒体，可用入门版节点、基础版节点、标准版节点、IPLC专线节点、旗舰版节点(可用所有节点)</li>
- 	<li>旗舰版大流量每月¥99.99，1200GB使用流量，10个设备同时使用，不限制速率，工单客服，支持支持SSR、V2ray节点，国内中转节点，解锁流媒体，可用入门版节点、基础版节点、标准版节点、IPLC专线节点、旗舰版节点(可用所有节点)</li>
-</ul>
+### **套餐概览**
+
+| 套餐名称     | 价格      | 流量   | 设备数 | 速率        | 特点                                                   |
+| ------------ | --------- | ------ | ------ | ----------- | ------------------------------------------------------ |
+| 入门版       | ¥19.99/月 | 100GB  | 2台    | 最高60Mbps  | 国内中转/入门版节点，解锁流媒体                        |
+| 基础版       | ¥29.99/月 | 200GB  | 3台    | 最高150Mbps | 国内中转/入门版/基础版节点，解锁流媒体                 |
+| 标准版       | ¥39.99/月 | 350GB  | 5台    | 最高300Mbps | 国内中转/入门版/基础版/标准版节点，解锁流媒体          |
+| 旗舰版       | ¥59.99/月 | 600GB  | 8台    | 不限速      | 国内中转/入门版/基础版/标准版/IPLC专线节点，解锁流媒体 |
+| 旗舰版大流量 | ¥99.99/月 | 1200GB | 10台   | 不限速      | 全部节点可用，解锁流媒体                               |
+
+### **特点**
+- **支持SSR和V2Ray协议**：适应不同网络环境。
+- **国内中转节点**：提供稳定的网络连接。
+- **IPLC专线节点**：旗舰版以上套餐可用，提高网络速度和稳定性。
+- **流媒体解锁**：支持解锁Netflix、Hulu等流媒体服务。
+- **工单客服支持**：提供快速的技术支持。
+
+### **推荐选择**
+- **轻度使用（日常浏览）** → 入门版（¥19.99/月）
+- **中等需求（流媒体使用）** → 基础版（¥29.99/月）
+- **高流量需求（大规模下载）** → 旗舰版大流量（¥99.99/月）
+
+### **优势**
+- **稳定的CN2/BGP入口**：确保网络速度稳定。
+- **多协议支持**：适应不同网络环境。
+- **流媒体解锁支持**：满足多种流媒体需求。
+- **全平台支持**：方便用户使用。
+
+
+
 <img class="alignnone size-full wp-image-482" src="https://www.jichang8.com/wp-content/uploads/2024/04/c0f2ba90ea19833.webp" width="881" height="544" />
 <h2>极客云<a title="机场客户端大全" href="https://www.jichang8.com/clients/clash-v2rayn-v2rayng-shadowrocket-quantumult.html">机场客户端</a>支持</h2>
 <div class="ant-anchor-link">
